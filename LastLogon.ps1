@@ -1,9 +1,3 @@
-<#Description : Script permettant d'afficher les LastLogon de tous les utilisateurs de l'AD
-Auteur : Julien Borri
-Date de création : 11/09/2023
-Version : 1.0
-#>
-
 Import-Module ImportExcel
 Import-Module ActiveDirectory
 
